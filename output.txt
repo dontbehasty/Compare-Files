@@ -1,0 +1,14 @@
+AGU.B.MAMACACHE_REGRESSION.AGU.B Type: UPDATE Status OK 
+AGU.C.MAMACACHE_REGRESSION.AGU.C Type: UPDATE Status OK 
+  wIssueSymbol         |  305 |        STRING | AGU.B
+  wIssueSymbol         |  305 |        STRING | AGU.C
+  wPrevCloseDate       |  435 |        STRING | 2002/06/05
+  wPrevCloseDate       |  435 |        STRING | 2005/10/27
+  wTradePartId         |  480 |        STRING | B
+  wTradePartId         |  480 |        STRING | C
+  wIssueSymbol         |  305 |        STRING | AGU.C
+  wIssueSymbol         |  305 |        STRING | AGU.B
+  wPrevCloseDate       |  435 |        STRING | 2005/10/27
+  wPrevCloseDate       |  435 |        STRING | 2002/06/05
+  wTradePartId         |  480 |        STRING | C
+  wTradePartId         |  480 |        STRING | B
